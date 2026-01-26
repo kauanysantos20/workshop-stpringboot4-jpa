@@ -23,4 +23,9 @@ public class UserService {
 		Optional <User> obj = repository.findById(id);
 		return obj.get();
 	}
+	
+	//metodo para salvar no BD um dado usuário
+	public User insert(User obj) {
+		return repository.save(obj);
+	}
 }

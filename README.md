@@ -14,7 +14,7 @@ Este projeto possui caráter educacional, sendo desenvolvido com o propósito de
 ## Modelo de Domínio
 ![Modelo de Dominio](https://github.com/kauanysantos20/workshop-stpringboot4-jpa/blob/main/Modelo_dominio.png)
 
-## Instância de Domíni
+## Instância de Domínio
 ![Modelo de Dominio](https://github.com/kauanysantos20/workshop-stpringboot4-jpa/blob/main/Inst%C3%A2ncia%20de%20Dom%C3%ADnio.png)
 
 # Ferramentas utilizadas

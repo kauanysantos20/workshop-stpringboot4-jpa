@@ -1,4 +1,4 @@
-package com.example.workshop.resources.exeptions;
+package com.example.workshop.resources.execeptions;
 
 import java.io.Serializable;
 import java.time.Instant;

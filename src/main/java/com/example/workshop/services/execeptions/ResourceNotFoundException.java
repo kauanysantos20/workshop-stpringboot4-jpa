@@ -1,4 +1,4 @@
-package com.example.workshop.services.exeptions;
+package com.example.workshop.services.execeptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
